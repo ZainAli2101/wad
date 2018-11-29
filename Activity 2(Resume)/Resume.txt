@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<title> Resume </title>
+</head>
+
+
+<body>
+
+	<table width="600" bgcolor="skyblue" border="0">
+
+
+	<tbody> <tr> <td>
+ <img src="https://scontent.flhe9-1.fna.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/40266625_1926735350752674_1885895611115372544_n.jpg?_nc_cat=107&amp;oh=c8f4f47c3940bd6a7bf79f6e23536823&amp;oe=5C5ADB97" alt="Profile Pic"> </td>
+
+	<td align="center"> <b> ZAIN ALI </b> </td>
+ </tr>
+
+
+	<tr> <td> Designation: </td>
+	
+	<td> <b> Student </b> </td> </tr>
+
+	<tr> <td> Institute: </td>
+ 
+	<td> <b> University Of Central Punjab </b>  </td> </tr>
+ 
+	<tr> <td> Location: </td>
+ 
+	<td> <b> 2-Ayesha Street,Old Muslim Town, Wahdat Road, Lahore. </b> </td> </tr>
+ 
+
+	<tr>
+    		
+		<td rowspan="2">Contacts:</td>
+
+    		<td> <b> 0324 4764433 </b> </td>
+
+  	</tr>
+
+  	<tr>
+
+    		<td> <b> 0333 4308488 </b> </td>
+
+  	</tr>
+
+
+
+	<tr> <td> Email: </td>
+	<td> <b> zain-ali@ucp.edu.pk </b> </td> </tr>
+
+
+	</tbody> </table>
+
+
+
+	<table width="600" bgcolor="skyblue" border="0">
+
+		<tbody><tr> <td> <b> <br> <br> <font size="5"> Objective: </font> <br> <br> </b> </td> </tr>
+
+		<tr> <td align="left"> I want to become a developer and demonstrate proficiency in the analysis of complex problems and the synthesis of solutions to those problems. </td> </tr>
+  
+	</tbody></table>
+
+
+	
+	<table width="600" bgcolor="skyblue" border="0">
+
+		<tbody><tr> <td> <b> <br> <br> <font size="5"> Education: </font> </b> </td> </tr> 
+
+		<tr> <td> <ul> <li> <b> 2014-2016 </b> Punjab College </li> <li> <b> 2016-Present </b> University of Central Punjab </li> </ul> </td> </tr>
+
+	</tbody></table>
+
+
+
+	<table width="600" bgcolor="skyblue" border="0">
+
+		<tbody><tr> <td> <b> <br> <br> <font size="5"> Skills: </font> </b> </td> </tr> 
+
+		<tr> <td> <ul> <li> Ms Word, Excel, Powerpoint </li> <li> Visual Studio </li> <li> EMU8086 </li> </ul> </td> </tr>
+
+	
+	</tbody></table>
+
+
+
+	<table width="600" bgcolor="skyblue" border="0">
+
+		<tbody><tr> <td> <b> <br> <br> <font size="5"> Hobbies: </font> </b> </td> </tr> 
+
+		<tr> <td> <ul> <li> Badminton </li> <li> Movies and Seasons </li> <li> Gaming </li> </ul> </td> </tr>
+
+	</tbody></table>
+
+
+
+</body></html>
+
