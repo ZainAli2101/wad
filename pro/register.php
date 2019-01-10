@@ -181,6 +181,18 @@ require "server/functions.php";
                         <textarea class="form-control" type="file" id="c_address" name="c_address" placeholder="Enter your address"></textarea>
                     </div>
                 </div>
+                <div class="d-none d-sm-block col-sm-3 col-md-4 col-lg-2 col-xl-2 mt-auto">
+                    <label for="c_name" class="float-md-right">  Date:</label>
+                </div>
+                <div class="col-sm-9 col-md-8 col-lg-4 col-xl-4">
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <div class="input-group-text"><i class="fas fa-user"></i></div>
+                        </div>
+                        <input type="text" class="form-control" id="c_name" name="c_name" placeholder="Enter valid date"
+                               required pattern="(0[1-9]|[1-2][0-9]|3[01])\.(0[1-9]|1[012])\.(19[0-9]{2}|200[01])">
+                    </div>
+                </div>
             </div>
             <div class="row my-3">
                 <div class="d-none d-sm-block col-sm-3 col-md-4 col-lg-2 col-xl-2 mt-auto"></div>
